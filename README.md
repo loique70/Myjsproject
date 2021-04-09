@@ -1,0 +1,2 @@
+# Myjsproject
+javascript prject only
